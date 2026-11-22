@@ -1,0 +1,72 @@
+.std{
+    
+    text-align: center;
+    background-color: blue;
+    padding: 20px;
+}
+h1{
+    color: aliceblue;
+}
+.add-btn{
+    padding:10px 20px;
+    border-radius:10px;
+    color: black;
+    background-color: red;
+}
+.edit-btn{
+    padding:10px 20px;
+    border-radius: 10px;;
+    color: green;
+    background-color: aqua;
+}
+.delete-btn{
+    padding:10px 20px;
+    border-radius: 10px;;
+    color:blue;
+    background-color: aqua;
+}
+.toolbar{
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    padding:10px;
+}
+.searchbox{
+    padding:10px 20px;
+    border-radius:10px;
+    background-color: lavenderblush;
+}
+.headername{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.headermarks{
+    background-color: black;
+    color: white;
+    padding: 10px;
+
+}
+.headeractions{
+    background-color: black;
+    color: white;
+    padding: 10px;
+
+}
+.dataname{
+    background-color: lavenderblush;
+    color:black;
+    text-align: center;
+    padding:10px;
+}
+.datamarks{
+    background-color: gainsboro;
+    color:black;
+    text-align: center;
+    padding:10px;
+}
+.page{
+    background-color: pink;
+    min-height: 100vh;
+    padding:20px;
+}    
